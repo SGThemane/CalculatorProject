@@ -1,4 +1,4 @@
-print("Main Calculator")
+print("Its my simple Calculator")
 
 num1 = float(input("Enter first number: "))
 operator = input("Enter operator (+, -, *, /): ")
